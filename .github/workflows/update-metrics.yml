@@ -22,3 +22,6 @@ jobs:
           repositories_affiliations: owner, collaborator
           plugin_languages: yes
           plugin_repositories: yes
+          # Temporary fix for lowlighter/metrics#1222
+          extras_css: |
+            .field.warning { display: none; }
