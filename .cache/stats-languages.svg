@@ -31,14 +31,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="356.0420802182963" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="356.0420802182963" y="0" width="55.49956308855008" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="411.5416433068463" y="0" width="32.77358508285374" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="444.3152283897001" y="0" width="9.165629079323507" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.4808574690236" y="0" width="5.173671482338666" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="458.6545289513623" y="0" width="0.4664065218070247" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="459.1209354731693" y="0" width="0.4415917860210613" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.56252725919035" y="0" width="0.4374727408096261" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.9971794868155" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="355.9971794868155" y="0" width="55.49256399738083" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="411.48974348419637" y="0" width="32.769451981669285" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="444.2591954658656" y="0" width="9.16447319502497" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.4236686608906" y="0" width="5.1730190267810086" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="458.5966876876716" y="0" width="0.49954703859763977" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.09623472626924" y="0" width="0.46634770293375083" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="459.56258242920296" y="0" width="0.4374175707969883" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -50,7 +50,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>77.4%</div>
+                                <div>77.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -78,9 +78,9 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#222c37" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                ShaderLab
                             </div>
                             <small>
                                 <div>0.1%</div>
@@ -96,7 +96,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>12.07%</div>
+                                <div>12.06%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -113,12 +113,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#222c37" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                ShaderLab
+                                Shell
                             </div>
                             <small>
-                                <div>0.1%</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
